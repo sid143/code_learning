@@ -1,0 +1,12 @@
+<html>
+<head>
+
+</head>
+<body bgcolur=gold>
+<b><fontsize=80><marquee>Parbhudayal memorial college,bahadurgarh</marquee></font size></b>
+<li>pdm polytechnic</li>
+<a href="http://www.pdmpolytechnic.com/>pdm polytechnic</a>
+<li>pdm dental college </li>
+<a href="http://www.pdmdentalcollege.com/">PDMDC</a>
+<li>PDM college of enginering</li>
+<ahref="http 
